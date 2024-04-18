@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup 
 
-import leafmap
+#import leafmap
 
 import streamlit.components.v1 as components
 import streamlit as st
