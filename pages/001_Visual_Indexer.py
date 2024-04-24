@@ -100,7 +100,7 @@ if __name__ == "__main__":
         plt.tight_layout()
 
         if unusable_columns != []:
-            st.write(f"Could not use the following column(s): {','.join([f'\'{column_name}\'' for column_name in unusable_columns])}")
+            st.write("Could not use the following column(s): " + ",".join([f"'{column_name}'" for column_name in unusable_columns]))
         
         st.pyplot(fig)
 
