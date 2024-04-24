@@ -4,6 +4,7 @@ lxml
 matplotlib
 pandas
 plotly
+psutil
 requests
 scipy
 seaborn
