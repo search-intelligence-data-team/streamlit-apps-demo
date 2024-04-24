@@ -1,7 +1,10 @@
-pandas
-bs4
-matplotlib
-seaborn
-plotly
 bokeh
+bs4
+lxml
+matplotlib
+pandas
+plotly
 requests
+scipy
+seaborn
+streamlit
